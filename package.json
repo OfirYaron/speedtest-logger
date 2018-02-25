@@ -1,0 +1,27 @@
+{
+  "name": "speedtest-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfirYaron/speedtest-logger.git"
+  },
+  "keywords": [
+    "speedtest",
+    "statistics",
+    "remote",
+    "storage",
+    "local",
+    "storage"
+  ],
+  "author": "Ofir Yaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OfirYaron/speedtest-logger/issues"
+  },
+  "homepage": "https://github.com/OfirYaron/speedtest-logger#readme"
+}
