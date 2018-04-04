@@ -1,0 +1,30 @@
+{
+  "speeds": {
+    "download": 34.551,
+    "upload": 2.872,
+    "originalDownload": 3805218,
+    "originalUpload": 315225 },
+    "client": {
+      "ip": "77.126.151.93",
+      "lat": 32.1169,
+      "lon": 34.9341,
+      "isp": "012",
+      "isprating": 2.9,
+      "rating": 0,
+      "ispdlavg": 13.894,
+      "ispulavg": 1.662
+    },
+    "server": {
+      "host": "rhspt1.spotnet.co.il",
+      "lat": 32.0833,
+      "lon": 34.95,
+      "location": "Rosh HaAyin",
+      "country": "Israel",
+      "cc": "IL",
+      "sponsor": "Spotnet Ltd",
+      "distance": 4.03,
+      "distanceMi": 2.5,
+      "ping": 30.5,
+      "id": "9609"
+    }
+}
