@@ -1,1 +1,8 @@
+# IDE
 .idea
+
+# dependencies
+/node_modules
+
+# production
+/lib
